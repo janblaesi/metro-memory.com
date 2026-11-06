@@ -93,7 +93,7 @@ export const linesMetadata: {
   DuesseldorfU78: {
     name: 'U78',
     osm: {
-      relationIds: [2430794, 2430793, 2430794],
+      relationIds: [2430794, 2430792],
       extraStationNodeIds: [],
       extraRouteWayIds: [],
     },
@@ -209,5 +209,23 @@ export const linesMetadata: {
 // alternate names
 // ----------------------------------------
 export const alternateNames: { [stationName: string]: string[] | undefined } = {
-  //'Karlsruhe Hauptbahnhof': ['Hauptbahnhof'],
+  'Meerbusch-Görgesheide': ['Görgesheide'],
+  'Meerbusch-Büderich, Landsknecht': ['Büderich Landsknecht', 'Landsknecht'],
+  'Düsseldorf-Lörick': ['Lörick'],
+  'Benrather Straße U': ['Benrather Straße', 'Benrather Str'],
+  'Graf-Adolf-Platz U': ['Graf-Adolf-Platz'],
+  'Stadthalle/Museum': ['Neuss Stadthalle'],
+  'D-Flughafen Terminal S U': ['Flughafen Terminal'],
+  'Duisburg Hauptbahnhof U': ['Duisburg Hbf', 'Duisburg Hauptbahnhof'],
+  'Duisburg-Meiderich Bf': ['Meiderich Bahnhof', 'Meiderich Bf'],
+  'Handelszentrum/Moskauer Straße': ['Handelszentrum'],
+  'Medienhafen, Kesselstraße': ['Kesselstraße', 'Kesselstr'],
+  'Oberbilker Markt/Warschauer Straße': ['Oberbilker Markt'],
+  'Oberbilker Markt U': ['Oberbilker Markt'],
+  'Düsseldorf-Hubertushain': ['Hubertushain'],
+  'Ratingen, Felderhof': ['Felderhof'],
+  'Düsseldorf Lindemannstraße': ['Lindemannstraße', 'Lindemannstr'],
+  'Düsseldorf Hansaplatz': ['Hansaplatz', 'Hansapl'],
+  'Düsseldorf Grunerstraße': ['Grunerstraße', 'Grunerstr'],
+  'Düsseldorf Engerstraße': ['Engerstraße', 'Engerstr'],
 }

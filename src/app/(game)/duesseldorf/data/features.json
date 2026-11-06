@@ -14,6 +14,7 @@
         "id": 1037,
         "name": "Handelszentrum/Moskauer Straße",
         "alternate_names": [
+          "Handelszentrum",
           "Handelszentrum/Moskauer Str"
         ],
         "line": "DuesseldorfU70",
@@ -161,6 +162,9 @@
       "properties": {
         "id": 1029,
         "name": "Düsseldorf-Lörick",
+        "alternate_names": [
+          "Lörick"
+        ],
         "line": "DuesseldorfU70",
         "order": 8
       },
@@ -178,6 +182,10 @@
       "properties": {
         "id": 1028,
         "name": "Meerbusch-Büderich, Landsknecht",
+        "alternate_names": [
+          "Büderich Landsknecht",
+          "Landsknecht"
+        ],
         "line": "DuesseldorfU70",
         "order": 8
       },
@@ -497,6 +505,8 @@
         "id": 1047,
         "name": "Benrather Straße U",
         "alternate_names": [
+          "Benrather Straße",
+          "Benrather Str",
           "Benrather Str U"
         ],
         "line": "DuesseldorfU71",
@@ -645,6 +655,8 @@
         "id": 1055,
         "name": "Düsseldorf Grunerstraße",
         "alternate_names": [
+          "Grunerstraße",
+          "Grunerstr",
           "Düsseldorf Grunerstr"
         ],
         "line": "DuesseldorfU71",
@@ -664,6 +676,10 @@
       "properties": {
         "id": 1056,
         "name": "Düsseldorf Hansaplatz",
+        "alternate_names": [
+          "Hansaplatz",
+          "Hansapl"
+        ],
         "line": "DuesseldorfU71",
         "order": 9
       },
@@ -866,6 +882,9 @@
       "properties": {
         "id": 1067,
         "name": "Ratingen, Felderhof",
+        "alternate_names": [
+          "Felderhof"
+        ],
         "line": "DuesseldorfU72",
         "order": 10
       },
@@ -883,6 +902,9 @@
       "properties": {
         "id": 1068,
         "name": "Düsseldorf-Hubertushain",
+        "alternate_names": [
+          "Hubertushain"
+        ],
         "line": "DuesseldorfU72",
         "order": 10
       },
@@ -1047,6 +1069,8 @@
         "id": 1077,
         "name": "Düsseldorf Engerstraße",
         "alternate_names": [
+          "Engerstraße",
+          "Engerstr",
           "Düsseldorf Engerstr"
         ],
         "line": "DuesseldorfU72",
@@ -1067,6 +1091,8 @@
         "id": 1078,
         "name": "Düsseldorf Lindemannstraße",
         "alternate_names": [
+          "Lindemannstraße",
+          "Lindemannstr",
           "Düsseldorf Lindemannstr"
         ],
         "line": "DuesseldorfU72",
@@ -1181,6 +1207,8 @@
         "id": 1084,
         "name": "Benrather Straße U",
         "alternate_names": [
+          "Benrather Straße",
+          "Benrather Str",
           "Benrather Str U"
         ],
         "line": "DuesseldorfU72",
@@ -1802,6 +1830,8 @@
         "id": 1122,
         "name": "Düsseldorf Engerstraße",
         "alternate_names": [
+          "Engerstraße",
+          "Engerstr",
           "Düsseldorf Engerstr"
         ],
         "line": "DuesseldorfU73",
@@ -1822,6 +1852,8 @@
         "id": 1121,
         "name": "Düsseldorf Lindemannstraße",
         "alternate_names": [
+          "Lindemannstraße",
+          "Lindemannstr",
           "Düsseldorf Lindemannstr"
         ],
         "line": "DuesseldorfU73",
@@ -1936,6 +1968,8 @@
         "id": 1115,
         "name": "Benrather Straße U",
         "alternate_names": [
+          "Benrather Straße",
+          "Benrather Str",
           "Benrather Str U"
         ],
         "line": "DuesseldorfU73",
@@ -2277,6 +2311,7 @@
         "id": 1153,
         "name": "Handelszentrum/Moskauer Straße",
         "alternate_names": [
+          "Handelszentrum",
           "Handelszentrum/Moskauer Str"
         ],
         "line": "DuesseldorfU75",
@@ -2798,6 +2833,7 @@
         "id": 1190,
         "name": "Oberbilker Markt/Warschauer Straße",
         "alternate_names": [
+          "Oberbilker Markt",
           "Oberbilker Markt/Warschauer Str"
         ],
         "line": "DuesseldorfU76",
@@ -3050,6 +3086,9 @@
       "properties": {
         "id": 1176,
         "name": "Düsseldorf-Lörick",
+        "alternate_names": [
+          "Lörick"
+        ],
         "line": "DuesseldorfU76",
         "order": 13
       },
@@ -3067,6 +3106,10 @@
       "properties": {
         "id": 1175,
         "name": "Meerbusch-Büderich, Landsknecht",
+        "alternate_names": [
+          "Büderich Landsknecht",
+          "Landsknecht"
+        ],
         "line": "DuesseldorfU76",
         "order": 13
       },
@@ -3169,6 +3212,9 @@
       "properties": {
         "id": 1169,
         "name": "Meerbusch-Görgesheide",
+        "alternate_names": [
+          "Görgesheide"
+        ],
         "line": "DuesseldorfU76",
         "order": 13
       },
@@ -3505,6 +3551,7 @@
         "id": 1212,
         "name": "Handelszentrum/Moskauer Straße",
         "alternate_names": [
+          "Handelszentrum",
           "Handelszentrum/Moskauer Str"
         ],
         "line": "DuesseldorfU77",
@@ -3813,23 +3860,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.7368801,
-          51.2644046
-        ]
-      },
-      "properties": {
-        "id": 1230,
-        "name": "Sportpark Nord/Europaplatz",
-        "line": "DuesseldorfU78",
-        "order": 15
-      },
-      "id": 1230
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.7364447,
           51.2610712
         ]
@@ -3854,6 +3884,10 @@
       "properties": {
         "id": 1231,
         "name": "Duisburg-Meiderich Bf",
+        "alternate_names": [
+          "Meiderich Bahnhof",
+          "Meiderich Bf"
+        ],
         "line": "DuesseldorfU79",
         "order": 16
       },
@@ -3906,6 +3940,8 @@
         "id": 1234,
         "name": "Duisburg Hauptbahnhof U",
         "alternate_names": [
+          "Duisburg Hbf",
+          "Duisburg Hauptbahnhof",
           "Duisburg Hbf U"
         ],
         "line": "DuesseldorfU79",
@@ -4574,6 +4610,7 @@
         "id": 1271,
         "name": "Oberbilker Markt/Warschauer Straße",
         "alternate_names": [
+          "Oberbilker Markt",
           "Oberbilker Markt/Warschauer Str"
         ],
         "line": "DuesseldorfU79",
@@ -4940,6 +4977,9 @@
       "properties": {
         "id": 1279,
         "name": "D-Flughafen Terminal S U",
+        "alternate_names": [
+          "Flughafen Terminal"
+        ],
         "line": "DuesseldorfU80",
         "order": 17
       },
@@ -4991,6 +5031,9 @@
       "properties": {
         "id": 1292,
         "name": "D-Flughafen Terminal S U",
+        "alternate_names": [
+          "Flughafen Terminal"
+        ],
         "line": "DuesseldorfU81",
         "order": 18
       },
@@ -5171,6 +5214,8 @@
         "id": 1308,
         "name": "Benrather Straße U",
         "alternate_names": [
+          "Benrather Straße",
+          "Benrather Str",
           "Benrather Str U"
         ],
         "line": "DuesseldorfU83",
@@ -5285,6 +5330,8 @@
         "id": 1302,
         "name": "Düsseldorf Lindemannstraße",
         "alternate_names": [
+          "Lindemannstraße",
+          "Lindemannstr",
           "Düsseldorf Lindemannstr"
         ],
         "line": "DuesseldorfU83",
@@ -5305,6 +5352,8 @@
         "id": 1301,
         "name": "Düsseldorf Engerstraße",
         "alternate_names": [
+          "Engerstraße",
+          "Engerstr",
           "Düsseldorf Engerstr"
         ],
         "line": "DuesseldorfU83",
@@ -7099,6 +7148,9 @@
       "properties": {
         "id": 1425,
         "name": "Oberbilker Markt U",
+        "alternate_names": [
+          "Oberbilker Markt"
+        ],
         "line": "Duesseldorf706",
         "order": 4
       },
@@ -7418,6 +7470,9 @@
       "properties": {
         "id": 1407,
         "name": "Graf-Adolf-Platz U",
+        "alternate_names": [
+          "Graf-Adolf-Platz"
+        ],
         "line": "Duesseldorf706",
         "order": 4
       },
@@ -7635,6 +7690,8 @@
         "id": 1436,
         "name": "Medienhafen, Kesselstraße",
         "alternate_names": [
+          "Kesselstraße",
+          "Kesselstr",
           "Medienhafen, Kesselstr"
         ],
         "line": "Duesseldorf707",
@@ -8235,6 +8292,9 @@
       "properties": {
         "id": 1468,
         "name": "Graf-Adolf-Platz U",
+        "alternate_names": [
+          "Graf-Adolf-Platz"
+        ],
         "line": "Duesseldorf708",
         "order": 6
       },
@@ -8398,6 +8458,8 @@
         "id": 1477,
         "name": "Düsseldorf Grunerstraße",
         "alternate_names": [
+          "Grunerstraße",
+          "Grunerstr",
           "Düsseldorf Grunerstr"
         ],
         "line": "Duesseldorf708",
@@ -8417,6 +8479,10 @@
       "properties": {
         "id": 1478,
         "name": "Düsseldorf Hansaplatz",
+        "alternate_names": [
+          "Hansaplatz",
+          "Hansapl"
+        ],
         "line": "Duesseldorf708",
         "order": 6
       },
@@ -8731,6 +8797,9 @@
       "properties": {
         "id": 1491,
         "name": "Graf-Adolf-Platz U",
+        "alternate_names": [
+          "Graf-Adolf-Platz"
+        ],
         "line": "Duesseldorf709",
         "order": 7
       },
@@ -8924,6 +8993,9 @@
       "properties": {
         "id": 1505,
         "name": "Stadthalle/Museum",
+        "alternate_names": [
+          "Neuss Stadthalle"
+        ],
         "line": "Duesseldorf709",
         "order": 7
       },
@@ -9033,7 +9105,7 @@
     }
   ],
   "properties": {
-    "totalStations": 260,
+    "totalStations": 259,
     "stationsPerLine": {
       "DuesseldorfU70": 18,
       "DuesseldorfU71": 25,
@@ -9042,7 +9114,7 @@
       "DuesseldorfU75": 28,
       "DuesseldorfU76": 37,
       "DuesseldorfU77": 16,
-      "DuesseldorfU78": 15,
+      "DuesseldorfU78": 14,
       "DuesseldorfU79": 48,
       "DuesseldorfU80": 13,
       "DuesseldorfU81": 3,
